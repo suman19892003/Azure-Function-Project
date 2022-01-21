@@ -1,0 +1,20 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=hrsyncsxsthrsyncsbx1;AccountKey=rg31jP7CxqZLL2j3UxuTqjzdcPNu7fVbLZgXSY7F466k+e6kEVnYbS32MUFn+ifx68r/JiT34h1+oR9ZaW8+wg==;EndpointSuffix=core.windows.net",
+    "WEBSITE_SITE_NAME": "CustomFunctonApp1",
+    "FUNCTIONS_WORKER_RUNTIME": "powershell",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=hrsyncsxsthrsyncsbx1;AccountKey=rg31jP7CxqZLL2j3UxuTqjzdcPNu7fVbLZgXSY7F466k+e6kEVnYbS32MUFn+ifx68r/JiT34h1+oR9ZaW8+wg==;EndpointSuffix=core.windows.net",
+    "ScmType": "None",
+    "REMOTEDEBUGGINGVERSION": "16.0.30709.132",
+    "WEBSITE_CONTENTSHARE": "customfunctonapp19e7c",
+    "tenant_pwd": "T#xm4#rK",
+    "FUNCTIONS_RUNTIME_SCALE_MONITORING_ENABLED": "0",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "WEBSITE_SLOT_NAME": "Production",
+    "tenant_user": "sagrspgrs-hrsync-admin@LibertyMutual.onmicrosoft.com"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Data": {
+    "Customers": [
+      {
+        "Surname": "Smith",
+        "Name": "John",
+        "OnSubscription": true
+      },
+      {
+        "Surname": "Smith",
+        "Name": "John",
+        "OnSubscription": true
+      },
+      {
+        "Surname": "Smith",
+        "Name": "John",
+        "OnSubscription": true
+      },
+      {
+        "Surname": "Smith",
+        "Name": "John",
+        "OnSubscription": true
+      },
+      {
+        "Surname": "Smith",
+        "Name": "John",
+        "OnSubscription": true
+      },
+      {
+        "Surname": "Smith",
+        "Name": "John",
+        "OnSubscription": true
+      }
+    ]
+  }
+}
